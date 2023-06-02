@@ -1,0 +1,23 @@
+.dashboard-container {
+    width: 30%;
+    margin: 5rem auto;
+    text-align: center;
+}
+
+.dashboard-container > form > div {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    margin-top: 15px;
+    font-size: 16.5px;
+}
+
+.dashboard-container > form > div > input {
+    padding: 4px;
+    margin-top: 3px;
+}
+
+#update-quote-btn {
+    width: 130px;
+    margin: 20px 0px;
+}

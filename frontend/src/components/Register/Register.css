@@ -1,0 +1,23 @@
+.register-form {
+    width: 30%;
+    margin: 5rem auto;
+    text-align: center;
+}
+
+.register-form > div {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    margin: 10px 0px;
+    font-size: 16.5px;
+}
+
+.register-form > div > input {
+    padding: 4px;
+    margin-top: 3px;
+}
+
+#register-submit-btn {
+    width: 90px;
+    margin-top: 15px;
+}
